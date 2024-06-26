@@ -31,8 +31,8 @@ This project is an e-commerce platform that allows users to browse products, add
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
-- **Payment Gateway:** Stripe
+
+
 
 ## Installation
 
