@@ -28,8 +28,6 @@ const reducer = combineReducers({
     orderMylist : OrderListMyreducer,
     orderList: OrderListreducer,
     orderDeliver: OrderDeliverreducer
-
-
 })
 
 const cartItemsFromStorage = localStorage.getItem('cartItems') ? JSON.parse

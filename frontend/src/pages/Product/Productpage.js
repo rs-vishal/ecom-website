@@ -169,8 +169,8 @@ const submithanlder = () =>{
                <div className = "purchase-info">
             <Button onClick={addToCartHandler} type = "button"  className = "btn-shop" disabled={product.countInStock === 0}> <AiFillShop size='24' />Add to Cart </Button>
           </div>
-
-          {/* <div className = "social-links">
+{/* 
+          <div className = "social-links">
             <p>Share On: </p>
             <Link className = 'social' to = "#">
               <i> <IoLogoFacebook size='20'/></i>
@@ -187,7 +187,7 @@ const submithanlder = () =>{
 
     </div>
     }
-      <div className ='REVIEWS'>
+      {/* <div className ='REVIEWS'>
         <h1>Reviews :</h1>
         {product.reviews.length === 0 && <h2>NO REVIEWS</h2>}
         <div>
@@ -233,7 +233,7 @@ const submithanlder = () =>{
 
               </div>
         </div>
-      </div>
+      </div> */}
         </div>
         </>
 

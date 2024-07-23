@@ -1,6 +1,5 @@
-import React, {useState, useEffect,useRef} from 'react'
-import {Link} from 'react-router-dom'
-import {Form, Image} from 'react-bootstrap'
+import React, {useState, useEffect} from 'react'
+
 import {useDispatch, useSelector} from 'react-redux'
 import {getUserDetails,updateUser} from '../../actions/userActions'
 import { AiOutlineUser } from 'react-icons/ai';
