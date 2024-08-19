@@ -40,8 +40,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/e-commerce-project.git
-    cd e-commerce-project
+    git clone https://github.com/rs-vishal/ecom-website.git
+    cd ecom-website
     ```
 
 2. Install dependencies for the backend:
